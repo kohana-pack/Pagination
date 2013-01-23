@@ -1,4 +1,4 @@
 Pagination
 ==========
 
-Pagination module for Kohana framework
+Pagination module for Kohana 3 framework http://kohanaframework.org/
